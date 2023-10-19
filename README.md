@@ -1,11 +1,6 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Nuxt Content Module Talk at VueJs-Kenya
 
-To start the slide show:
+![Nuxt Content Module Talk](./public/Nuxt-Content-Module-Talk-Img.png)
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+[Nuxt Content Module Talk](https://selemondev-nuxt-content-module.vercel.app/1)
