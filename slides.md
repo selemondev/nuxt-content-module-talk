@@ -190,7 +190,7 @@ pnpm add @nuxt/content
 
 <div v-click>
 ```bash
-npx nuxi-edge@latest module add @nuxt/content
+npx nuxi module add @nuxt/content
 ```
 </div>
 
