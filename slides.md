@@ -35,8 +35,8 @@ With Selemon Brahanu
 </div>
 
 <div abs-br mx-10 my-12 flex="~ col" text-sm text-right>
-  <div>Vue JS Kenya</div>
-<div text-sm opacity-50>October 12 2023</div>
+  <div>VueJS Kenya</div>
+<div text-sm opacity-50>October 19th 2023</div>
 </div>
 
 ---
